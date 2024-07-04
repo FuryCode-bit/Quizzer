@@ -51,8 +51,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Quizzer][product-screenshot]](https://TODO.com)
-
 ### T8 – Exquizzito: Just another quizz in the wall
 
 This application aims to be a virtual version of classic general knowledge games with multiple-choice question cards. In this case, the questions should have a very specific scope: programming for mobile devices with the Android operating system. The simplest version of the application should allow configuring the number of users and rounds (e.g., 2 users, 20 rounds). In this version, the questions should be stored in XML file(s) with a suitable structure to facilitate the reuse of questions. A more elaborate version of this game should diversify the range of parameters that can be adjusted, from the maximum number of characters per user/round to the number of words to present to the next user. It should also include a system for classifying the degree of complexity/difficulty of the questions, allowing the creation of quizzes adapted to the knowledge demonstrated by users (with personalized question selection and test navigation).
